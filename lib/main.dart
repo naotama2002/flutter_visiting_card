@@ -1,7 +1,7 @@
 import 'dart:ffi';
 
 import 'package:camera/camera.dart';
-import 'package:cloud_storage_status/camera.dart';
+import 'package:visiting_card/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 

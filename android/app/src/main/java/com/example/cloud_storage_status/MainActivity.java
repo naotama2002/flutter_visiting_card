@@ -1,4 +1,4 @@
-package com.example.cloud_storage_status;
+package com.green_pu.visiting_card;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
